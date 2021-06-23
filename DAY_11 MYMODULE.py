@@ -1,3 +1,4 @@
+"1.Create a python module with list and import the module in another .py file and change the value in list"
 change the value in list"""
 list1=['Sanil','Kavitha','Sneha','Naveen']
 def mymodule(list1):
